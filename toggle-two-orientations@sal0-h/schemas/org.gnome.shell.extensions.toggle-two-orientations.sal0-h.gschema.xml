@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.toggle-two-orientations.sal0-h" path="/org/gnome/shell/extensions/toggle-two-orientations/sal0-h/">
+    <key type="b" name="orientation-a">
+      <default>true</default>
+      <summary>Use normal landscape orientation</summary>
+      <description>Use normal landscape when true, or upside-down landscape when false.</description>
+    </key>
+    <key type="b" name="orientation-b">
+      <default>true</default>
+      <summary>Use left portrait orientation</summary>
+      <description>Use left portrait when true, or right portrait when false.</description>
+    </key>
+  </schema>
+</schemalist>

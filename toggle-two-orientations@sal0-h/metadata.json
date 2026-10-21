@@ -1,0 +1,10 @@
+{
+  "uuid": "toggle-two-orientations@sal0-h",
+  "name": "Display Orientation Toggle",
+  "description": "Toggle the built-in or primary display between your preferred landscape and portrait orientations. Maintained by sal0-h; forked from Rotopenguin's Toggle Between Two Display Orientations.",
+  "shell-version": ["51"],
+  "version": 1,
+  "version-name": "1.0.0",
+  "settings-schema": "org.gnome.shell.extensions.toggle-two-orientations.sal0-h",
+  "url": "https://github.com/sal0-h/gnome-toggle-two-orientations-button"
+}

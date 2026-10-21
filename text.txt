@@ -1,6 +1,0 @@
-panel-orientation-managed may be proximate to where libmutter decides that a device is "tablety", qualified for autorotate. 
-
-https://gnome.pages.gitlab.gnome.org/mutter/meta/property.MonitorManager.panel-orientation-managed.html
-This is a dbus talk. In its xml description, it is camelCased. It is also known by either _'s or dashes. Really fun to grep for identifiers that aren't consistent.
-
-cc_display_settings_set_has_accelerometer() is all that gnome-control-center tests for, to dis/enable diaplay Orientation. This policy is in cc_display_panel.c . 
